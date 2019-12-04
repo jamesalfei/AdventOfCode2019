@@ -1,3 +1,11 @@
-/out
+# Ignore Gradle project-specific cache directory
+/.gradle
+
+# Ignore Gradle build output directory
+/build
 *.iml
 /.idea
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
